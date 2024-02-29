@@ -4,7 +4,6 @@ import { useAuthContext } from "../hooks/useAuthContext";
 
 // styles and images
 import "./Navbar.css";
-import Temple from "../assets/temple.svg";
 import Logo from "../assets/ProjectMangementLogo.svg";
 
 import React from "react";
